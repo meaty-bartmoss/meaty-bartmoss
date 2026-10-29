@@ -29,10 +29,10 @@
 
 ### Custom 1:1 Scale *Assetto Corsa* Track Mod
 * **WHAT:** Building a precise, drivable virtual track of a real place utilizing BlenderGIS data, OpenStreetMap vectors, and custom-authored textures.
-* **Tech Used:** Blender, Photoshop, OSM data.
+* **HOW:** Blender, Photoshop, OSM data.
 
 ### Freelance Design Commissions
-* **What it is:** Creating graphic assets, templates, logos, and custom designs for merchandise or products for community clients.
-* **Tech Used:** Vector illustration, and iterative client-feedback workflows.
+* **WHAT:** Creating graphic assets, templates, logos, and custom designs for merchandise or products for community clients.
+* **HOW:** Vector illustration, and iterative client-feedback workflows.
 
 ---
