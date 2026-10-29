@@ -9,36 +9,30 @@
 ---
 
 ## About Me
-* 🌱 I'm currently a **2nd-year BS Information Technology** student at MSU-IIT.
-* 🎨 Serving as **Creatives Director for The Tesseract Organization**, an organization dedicated in showcasing IT related talents
-* 🏎️ Passionate about pursuing the automotive/motorsport industry
+* I'm currently a **2nd-year BS Information Technology** student at MSU-IIT.
+* Serving as **Creatives Director for The Tesseract Organization**, an organization dedicated in showcasing IT related talents. Join namo!!!
+* Passionate about penetrating and pursuing the automotive/motorsport industry
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **Design & Creative** | Blender, Krita, Photoshop, Illustrator |
-| **Simulation & Engines** | Assetto Corsa (Modding / Custom Tracks), BlenderGIS |
+| **Design & Creative** | Blender, Krita, Photoshop |
+| **Simulation & Engines** | Assetto Corsa, BlenderGIS |
 | **Version Control & Ops** | Git, GitHub, VS Code |
 
 ---
 
-## 💡 Featured Projects & Experience
+## Featured Projects & Experience
 
-### 🗺️ Custom 1:1 Scale *Assetto Corsa* Track Mod
-* **What it is:** Building a precise, drivable virtual circuit of the campus environment utilizing BlenderGIS data, OpenStreetMap vectors, and custom-authored textures.
+### Custom 1:1 Scale *Assetto Corsa* Track Mod
+* **WHAT:** Building a precise, drivable virtual track of a real place utilizing BlenderGIS data, OpenStreetMap vectors, and custom-authored textures.
 * **Tech Used:** Blender, Photoshop, OSM data.
 
-### 🎨 Independent Design Commissions
-* **What it is:** Delivering tailored graphic assets, corporate logos (incorporating custom interlocking geometric chains), and custom merchandise/apparel design for community clients.
-* **Tech Used:** Vector illustration, precision layout, iterative client-feedback workflows.
+### Freelance Design Commissions
+* **What it is:** Creating graphic assets, templates, logos, and custom designs for merchandise or products for community clients.
+* **Tech Used:** Vector illustration, and iterative client-feedback workflows.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
